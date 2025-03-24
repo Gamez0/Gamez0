@@ -1,13 +1,12 @@
 
-## 👋 Hi, I'm Gamez0
+### 👋 Hi, I'm Gamez0
 
-## 🚀 About Me
 - 💻 Frontend Developer (React, Next.js, TypeScript)
 - 🌏 Studying Japanese & Backend Development (Node.js, Java)
 - 🎮 Learning Phaser.js for game development
 - 🎯 Interested in scalability & system design
 
-- ## 🛠 Tech Stack  
+### 🛠 Tech Stack  
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  ![ShadCN](https://img.shields.io/badge/ShadCN-000000?style=flat&logo=shadcn&logoColor=white)  ![Phaser](https://img.shields.io/badge/Phaser-003366?style=flat&logo=phaser&logoColor=white)  ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat&logo=react-query&logoColor=white)  ![Recoil](https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=recoil&logoColor=white)  ![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat&logo=zustand&logoColor=white)  
 <!--
 **Gamez0/Gamez0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
