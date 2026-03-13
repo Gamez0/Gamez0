@@ -2,7 +2,6 @@
 ### 👋 Hi, I'm Gamez0
 
 - 💻 Frontend Developer (React, Next.js, TypeScript)
-- 🌏 Studying Japanese & Backend Development (Node.js, Java)
 - 🎮 Learning Phaser.js for game development
 - 🎯 Interested in scalability & system design
 
